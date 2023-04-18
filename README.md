@@ -35,6 +35,7 @@ The purpose is to Prove the Zero Marginal approach using Unified Objectivism to 
 
 Thereby Creating the Fastest Path towards Self Teraformization
 
-I hope is Our Conjecture
+I hope is Our Conjecture Contact: public@phuire.org Status: In the Weeds, hope you guys are having fun too
+
 Contact: public@phuire.org
 Status: In the Weeds, hope you guys are having fun too
