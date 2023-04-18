@@ -7,17 +7,27 @@ Conjecture: If we were to Establish a Basis of Symbiotic Understanding with Bird
 ### Rough Road Map
 1. Build off of Phuire's Software Foundation via Interface, Agents, and Data handling.
 2. Create a Open Repository with Instruction on How to Build a Birdhouse that we Can Automate.
+```
 ~ Note that this can Constantly Improve via a Contious Transformation Process
-A. Self Building via Home Depot Runs and a Simple Amazon Checkout
-B. Agent Assisted Build Instructions, Installation, and Maintenence
-C. Camera, Microphone, Etc...
-~C. What would be the Most Cost Effective at Different Scales of Understanding?
-3. Inform a Nueromorphic User Interface that Best Adaps to each Specific User Needs, Wants, and Understanding
-~ Create a Symbiotic Interface most likely in MR
-A. Communcaiton with other Organizations to Broaden Network Converage, Research Fields, and Mutual Positive Benefit
-B. Create a Open-Collective Research Fund to Allow the Processing of Such Data on a Ongoing Basis
-C. Work with User Feedback to best Optimize, Ease Frustration, and Encourage Intellectual Curiosity
 
+2.1. Self Building via Home Depot Runs and a Simple Amazon Checkout
+
+2.2. Agent Assisted Build Instructions, Installation, and Maintenence
+
+2.3. Camera, Microphone, Etc...
+
+~2.3.1. What would be the Most Cost Effective at Different Scales of Understanding?
+```
+3. Inform a Nueromorphic User Interface that Best Adaps to each Specific User Needs, Wants, and Understanding
+```
+~ Create a Symbiotic Interface most likely in MR
+
+3.1. Communcaiton with other Organizations to Broaden Network Converage, Research Fields, and Mutual Positive Benefit
+
+3.2. Create a Open-Collective Research Fund to Allow the Processing of Such Data on a Ongoing Basis
+
+3.3. Work with User Feedback to best Optimize, Ease Frustration, and Encourage Intellectual Curiosity
+```
 ETC...
 
 ### Purpose
