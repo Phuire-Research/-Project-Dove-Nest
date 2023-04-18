@@ -1,7 +1,7 @@
 # -Project-Dove-Nest
 Important to Note we Forget how Many Domestics Live in the Wild: https://animals.net/dove/
 
-## ~ Objective Target: Understand ~Animal and in this Case Birds as a Language via Conceptualization, not just Song. Allowing us to have Natural Sensors in the Enviroment at Zero Marginal Cost.
+## ~ Objective Target: Understand ~Animal and in this Case Birds as a Language via Conceptualization, not just Song. Allowing us to have Natural Sensors in the Enviroment at a Responsible Zero Marginal Cost*.
 Conjecture: If we were to Establish a Basis of undertaking a Symbiotic Approach and Understanding with Avian and by Extension Animals in General. They are Spacial and Present Agents we Can Nurture, Understand, and Teach. Think to Corvids (Crows, Ravens, Magpies, Etc...) and how they Could help Clean, find a Mutual Basis of Communication, and Transform the Enviroment to Suite all of Us. As by Definition a Grey Goo would Devour Such and not see them as a Symbiotic. As you could Argue the Same Applie to Humans As well. As Even Crows Have been Known to Drop BottleCaps in Exchange for Food. This is just the Starting Inference~
 
 ### Rough Road Map
@@ -31,10 +31,10 @@ Conjecture: If we were to Establish a Basis of undertaking a Symbiotic Approach 
 ETC...
 
 ### Purpose
-The purpose is to Prove the Responsible Zero Marginal approach using Unified Objectivism to Prepare Road Maps that would Normally be inaccesible to a traditional Profit Driven Organizations. As we want People to Build, Contribute, and Inform emegerent Project. This is Also a Strong Starting Basis for a Very Long Conversation in regards to Goal Orientation in Regards to Mutual Alignment. As this Conceptualiztion could be Massively Broaded in Approach. As the next Step and what could be In Parallel would be Plants and Otherwise Conscious Systems that would Ordinary be Deemed dull and boring.
+The purpose is to Prove the Responsible Zero Marginal approach using Unified Objectivism to Prepare Road Maps that would Normally be inaccesible to a traditional Profit Driven Organizations. As we want People to Build, Contribute, and Inform emegerent Projects. This is Also a Strong Starting Basis for a Very Long Conversation and Walk towards Goal Optimization in Regards to Mutual Alignment with Autonomous Agents. As this Conceptualiztion could be Massively Broaded via the Unified Approach. As the next Step and what could be In Parallel would be Plants and Otherwise Conscious Systems that would Ordinary be Deemed dull and boring to Study Actively.
 
 Thereby Creating the Fastest Path towards Self-Terraformization
 
 Contact: public@phuire.org
 Status: In the Weeds, Bashing our Heads Through Walls
-Note: Forgive some mistakes Rolling fresh research out in this area Stuff. As the Change over Time of Ideas is Part of this Organizations Research and Appreciation. We Fail First and Pick ourselves Up to Try again as Long as We Need To. Cheers~
+Note: Forgive some mistakes Rolling fresh research out in this Area. Fresh Off the Presses. As the Change over Time of Ideas is Part of this Organizations Research and Appreciation. We Fail First and Pick ourselves Up to Try again as Long as We Need To. Cheers~
