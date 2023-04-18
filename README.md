@@ -2,7 +2,7 @@
 Important to Note we Forget how Many Domestics Live in the Wild: https://animals.net/dove/
 
 ## ~ Objective Target: Understand ~Animal and in this Case Birds as a Language via Conceptualization, not just Song. Allowing us to have Natural Sensors in the Enviroment at Zero Marginal Cost.
-Conjecture: If we were to Establish a Basis of Symbiotic Understanding with Birds and plainly Animals in General. They are Spacial Agents we Can Nurture, Understand, and Teach. Think to Covids (Interesting, why is it always this Dumb Negative Association Word game in this Reasearch that Prevents Understanding) and how they Could help Clean, find a Mutual Basis of Communication, and Transform the Enviroment to Suite all of Us. As by Definition a Grey Goo would Devour Such and not see them as Symbiotic and Likewise us as Humans. It's an easy Tell~!
+Conjecture: If we were to Establish a Basis of Symbiotic Understanding with Birds and plainly Animals in General. They are Spacial Agents we Can Nurture, Understand, and Teach. Think to Corvids (Crows, Ravens, Magpies, Etc...) and how they Could help Clean, find a Mutual Basis of Communication, and Transform the Enviroment to Suite all of Us. As by Definition a Grey Goo would Devour Such and not see them as Symbiotic and Likewise us as Humans. It's an easy Tell~!
 
 ### Rough Road Map
 1. Build off of Phuire's Software Foundation via Interface, Agents, and Data handling.
