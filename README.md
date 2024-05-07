@@ -1,40 +1,30 @@
 # -Project-Dove-Nest
-Important to Note we Forget how Many Domestics Live in the Wild: https://animals.net/dove/
+*Note* This is merely an example of how we might use near zero cost communication and translation to provide a means of measuring our environment. While providing an interesting angle that could provide a super critical balanced environmental equation. This is merely food for thought and not a organizational pursuit.
 
-## ~ Objective Target: Understand ~Animal and in this Case Birds as a Language via Conceptualization, not just Song. Allowing us to have Natural Sensors in the Enviroment at a Responsible Zero Marginal Cost*.
-Conjecture: If we were to Establish a Basis of undertaking a Symbiotic Approach and Understanding with Avian and by Extension Animals in General. They are Spacial and Present Agents we Can Nurture, Understand, and Teach. Think to Corvids (Crows, Ravens, Magpies, Etc...) and how they Could help Clean, find a Mutual Basis of Communication, and Transform the Enviroment to Suite all of Us. As by Definition a Grey Goo would Devour Such and not see them as a Symbiotic. As you could Argue the Same Applie to Humans As well. As Even Crows Have been Known to Drop BottleCaps in Exchange for Food. This is just the Starting Inference~
+We forget how many domesticated animals that used to serve a communication purpose now live in the wild: https://animals.net/dove/
+## Natural Sensors in the Environment and an effective means of Environmental Transformation
+Conjecture: If we were to establish a basis of understanding avian communication and eventually by extension all species. We would find a that we already have many natural agents that we can nurture, understand, and teach to help maintain a thriving ecosystem.
 
-### Rough Road Map
-1. Build off of Phuire's Research Software Foundation via Interface, Agents, and Data handling.
-2. Create a Open Repository with Instruction on How to Build a Birdhouse that we Can Automate.
+Example: Corvids (Crows, Ravens, Magpies, Etc...) and how they could help clean, find a mutual basis of communication, and transform the environment to suite all of us. We are demonstrating the opposite definition a grey goo that would devour its environment and not be symbiotic. Crows in studies can be trained to drop bottle caps in exchange for food. But likewise the time required to commit to such does not make sense without the aid of AI.
+## The Dove Nest
+Would be a simple bird house equipped with sensors and a means to communicate with its inhabitants. Be this some microphone or other construction that the paired species would find worth engaging with.
+1. Build off a Strong Fast Computation foundation via user interface, agents, and privacy oriented data handling.
+2. Create a open repository with instruction on how to build a "Dove Nest," that we can automate.
 ```
-~ Note that this can Constantly Improve via a Contious Transformation Process
+2.1. Translate the how to into interactive media.
 
-2.1. Self Building via Raw Material Runs and a Online Checkout Mechanism
+2.2. Instant access to agent assisted build instructions, installation, and maintenence.
 
-2.2. Agent Assisted Build Instructions, Installation, and Maintenence
-
-2.3. Camera, Microphone, Etc...
-
-~2.3.1. What would be the Most Cost Effective at Different Scales of Understanding?
+2.3. Option for instant checkout for required materials
 ```
-3. Inform a Nueromorphic User Interface that Best Adapts to each Specific User Needs, Wants, and Understanding in regards to Learning and Self Improvement
-```
-~ Create a Symbiotic Interface most likely in MR
-
-3.1. Communcaiton with other Organizations to Broaden Collaborative Partnerships, Area of Study, and Community Outreach
-
-3.2. Create a Open-Collective Research Fund to Allow the Processing of Such Data on a Ongoing Basis
-
-3.3. Work with User Feedback to best Optimize, Ease Frustration, and Encourage Intellectual Curiosity of Stakeholders
-```
-ETC...
-
 ### Purpose
-The purpose is to Prove the Responsible Zero Marginal approach using Unified Objectivism to Prepare Road Maps that would Normally be inaccesible to a traditional Profit Driven Organizations. As we want People to Build, Contribute, and Inform emegerent Projects. This is Also a Strong Starting Basis for a Very Long Conversation and Walk towards Goal Optimization in Regards to Mutual Alignment with Autonomous Agents. As this Conceptualiztion could be Massively Broaded via the Unified Approach. As the next Step and what could be In Parallel would be Plants and Otherwise Conscious Systems that would Ordinary be Deemed dull and boring to Study Actively.
+The purpose is to demonstrate the ability to open the marketplace to avenues inaccessible due to the cost of intelligent communication. With the possibility of intelligent communication reaching some Zero. This is also a strong starting basis for a very long journey and walk towards creating mutually beneficial environment for all potential agents, including AI Agents. This would merely be an expansion of domain knowledge that has been locked off. The next step and that could be done in parallel would be plants and by extension even [mycorrhizal networks](https://www.nationalforests.org/blog/underground-mycorrhizal-network).
 
-Thereby Creating the Fastest Path towards Self-Terraformization
+Opening up the ever increasing possibilities to bring out environment in line with what can maximally support a variety of life.
+
+## S-Risk
+We also demonstrate this possibility as an S-Risk, where the only sensible means towards approaching our environment in such a way. Would require a Strong Fast Computer System, that is only capable within designed specifications. Otherwise this avenue opens up some intelligent transformation of the environment that could maximize the suffering of those involved. Likewise hesitate to demonstrate the possibilities that could happen with such a system if aligned towards creating a maximally interesting environment. Versus one pinned towards symbiosis and the greater exploration that is afforded via simulation technology.
+
+Some doors in physical reality are better left shut.
 
 Contact: public@phuire.org
-Status: In the Weeds, Bashing our Heads Through Walls
-Note: Forgive some mistakes Rolling fresh research out in this Area. Fresh Off the Presses. As the Change over Time of Ideas is Part of this Organizations Research and Appreciation. We Fail First and Pick ourselves Up to Try again as Long as We Need To. Cheers~
